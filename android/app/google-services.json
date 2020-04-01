@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "620195410208",
+    "firebase_url": "https://newjest-7b990.firebaseio.com",
+    "project_id": "newjest-7b990",
+    "storage_bucket": "newjest-7b990.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620195410208:android:76f9ae2b73b33c732aa745",
+        "android_client_info": {
+          "package_name": "com.newjest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620195410208-3ibf95ervaicoer2je7ev460kbe6tvcr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe3GP1PlWFwmegkOlWYwsIeXRo7r494Rs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620195410208-3ibf95ervaicoer2je7ev460kbe6tvcr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
